@@ -1,8 +1,6 @@
 Zbtlink firmware images with ENDLESSDOORS as covered by vulncheck(https://www.vulncheck.com/blog/zbt-endlessdoors). Archived for security research purposes.
 
-# Checksums
 ## SHA-256 Checksums
-
 | Filename | SHA-256 Hash |
 | :--- | :--- |
 | `CPE2801_V22.10.09.bin` | `B3956CFBEBF9C8D0B2C7A2ECBE59E71C31A5802F2084D25D93A984C0F811E2C7` |
