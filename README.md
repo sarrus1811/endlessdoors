@@ -1,7 +1,6 @@
 Zbtlink firmware images with ENDLESSDOORS as covered by vulncheck(https://www.vulncheck.com/blog/zbt-endlessdoors). Archived for security research purposes.
 
-Hash                                                             FileName
-----                                                             --------
+## Hashes
 B3956CFBEBF9C8D0B2C7A2ECBE59E71C31A5802F2084D25D93A984C0F811E2C7 CPE2801_V22.10.09.bin
 F961E4243E759453294340BC7D1B145016D70B97AB328CAF47C64EA3CD818148 WE1026-5G-WD_V21.04.07.bin
 7791DE11CD27CB596DEFF089904A6EAB3A7E0AA391F867C2389582D5C78FEF4C WE1326_V22.02.18_1.bin
